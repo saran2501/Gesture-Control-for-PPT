@@ -31,8 +31,8 @@ Control your presentations effortlessly with hand gestures! This Python-based to
 1. **Clone the Repository**:  
    ```bash  
 
-   git clone [https://github.com/saran2501/Gesture-Control-for-PPT.git]
-   cd <repo-name>  
+   git clone https://github.com/saran2501/Gesture-Control-for-PPT.git
+   cd Gesture-Control-for-PPT  
    ```  
 
 2. **Install Dependencies**:  
